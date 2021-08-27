@@ -1,8 +1,6 @@
 cantemur/cantemur<h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate student from Turkey!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cantemur&label=Profile%20views&color=0e75b6&style=flat" alt="cantemur" /> </p>
-
 - 🔭 I’m currently working on [GameOptFramework (GOF).](gameoptframework.com)
 
 - 🌱 I’m currently learning **Docker, k8s, React.js, and more...**
