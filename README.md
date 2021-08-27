@@ -7,7 +7,7 @@ cantemur/cantemur<h1 align="center">Hi 👋, I'm Eren</h1>
 
 - 👯 I’m looking to collaborate on **data engineering projects.**
 
-- 👨‍💻 All of my projects are available at [github.com/cantemur](github.com/cantemur)
+- 👨‍💻 All of my projects are available at [github.com/cantemur](http://www.github.com/cantemur)
 
 - 💬 Ask me about **react, python, flutter**
 
