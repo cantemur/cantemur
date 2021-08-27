@@ -7,12 +7,6 @@ cantemur/cantemur<h1 align="center">Hi 👋, I'm Eren</h1>
 
 - 👯 I’m looking to collaborate on **data engineering projects.**
 
-- 👨‍💻 All of my projects are available at [github.com/cantemur](http://www.github.com/cantemur)
-
-- 💬 Ask me about **react, python, flutter**
-
-- 📫 How to reach me **erenstco@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/irnuwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irnuwu" height="30" width="40" /></a>
